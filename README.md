@@ -1,6 +1,6 @@
 # PCA-on-Pokemon-Dataset
 <div align="center">
-    <img alt="churn" src="Images/Pokemon.png">
+    <img alt="churn" src="Images/Pokemon.jpg">
 </div>
 
 
