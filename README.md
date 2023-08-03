@@ -1,6 +1,6 @@
 # PCA-on-Pokemon-Dataset
 <div align="center">
-    <img alt="churn" src="Pokemon.png">
+    <img alt="churn" src="Images/Pokemon.png">
 </div>
 
 
@@ -17,7 +17,7 @@ Before taking the PCA, PCA expects a normal distribution. Every column is subtra
 Then using the PCA function from sklearn.decomposition to find the PCA transformed of the dataset. Graphing the explained variance and cumulative variation. 
 
 <div align="center">
-    <img alt="churn" src="PCA.png">
+    <img alt="churn" src="Images/PCA.png">
 </div>
 
 The first 19 columns already capture 97.6% of the original dataset. 
