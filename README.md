@@ -10,7 +10,7 @@
 Some dataset gets too large and takes plenty of time to train. Principal component analysis tries to reduce the columns by transforming them into new axis. I have been a big Pokemon fan since I was a kid. I wanted to do some analysis of the stats.
 
 ## Dataset
-We are taking the base stats (attack, defense, speed, special attack, special defense) and what the type is strong or weak against to determine the Pokemon type. 
+We are taking the base stats (hp, attack, defense, speed, special attack, special defense) and what the type is strong or weak against to determine the Pokemon type. 
 
 ## PCA
 Before taking the PCA, PCA expects a normal distribution. Every column is subtracted by the mean of each column and divided by the standard deviation of each column. 
