@@ -24,7 +24,7 @@ The first 19 columns already capture 97.6% of the original dataset.
 
 ## Test regular dataset and PCA-transformed dataset on decision tree
 
-Only the first 19 columns of the PCA-transformed dataset were used in the training. The dataset is split with 75% training and 25% testing.
+Only the first 19 columns of the PCA-transformed dataset were used in the training. The dataset is split with 75% train and 25% test.
 
 **The decision tree without PCA gave an accuracy of 85.5% and with PCA gave an accuracy of 89.6%. This shows the original decision overfitted with the remaining 2.4% of the dataset, resulting in a lower accuracy score in the original dataset.** 
 
