@@ -4,7 +4,7 @@
 </div>
 
 
-**Principal component analysis improves the decision tree performance by reducing overfitting**
+### Principal component analysis improves the decision tree performance by reducing overfitting
 
 ## Motivation
 Some dataset gets too large and takes plenty of time to train. Principal component analysis tries to reduce the columns by transforming them into new axis. I have been a big Pokemon fan since I was a kid. I wanted to do some analysis of the stats.
